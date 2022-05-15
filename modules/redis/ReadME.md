@@ -1,0 +1,1 @@
+# Azure Redis Cache Service Terraform Module.
